@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1669593252 source:c:\sekolah\kuliah\semester 3\struktur data\tugas\minggu 8\pelayananrumahsakit\main.cpp
+	"q.h"
+
+1669593554 c:\sekolah\kuliah\semester 3\struktur data\tugas\minggu 8\pelayananrumahsakit\q.h
+	<iostream>
+
+1669594945 source:c:\sekolah\kuliah\semester 3\struktur data\tugas\minggu 8\pelayananrumahsakit\q.cpp
+	"q.h"
+
+1669593252 source:c:\users\adam\downloads\pelayananrumahsakit\pelayananrumahsakit\main.cpp
+	"q.h"
+
+1669593554 c:\users\adam\downloads\pelayananrumahsakit\pelayananrumahsakit\q.h
+	<iostream>
+
+1669602906 source:c:\users\adam\downloads\pelayananrumahsakit\pelayananrumahsakit\q.cpp
+	"q.h"
+
